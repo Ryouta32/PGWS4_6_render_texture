@@ -12,14 +12,15 @@
 ![結果画像4](result4.gif)
 
 ## 自分なりにかっこいいシーン
-![結果画像](result.gif)
+![movie_002](https://github.com/Ryouta32/PGWS4_6_render_texture/assets/90999621/417d782e-7fda-4ae4-80f6-cfc015f5c39f)
 
-![シェーダグラフ](node_graph.png)
+![graph](https://github.com/Ryouta32/PGWS4_6_render_texture/assets/90999621/5e7bf606-eeb8-4069-82f2-e07e473a5d75)
+
 
 # 自分なりに変更した点
 -
 -
--
+-色を変更しました
 
 
 # 進め方
